@@ -1,5 +1,5 @@
 # About Me:
-just building software you may use one day
+just a 20 year old building software you need one day
 
 
 # Stack:
@@ -7,4 +7,4 @@ just building software you may use one day
 
 # Projects:
 
-# Coming Soon
+Coming Soon
