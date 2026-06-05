@@ -5,7 +5,7 @@
 
 <h3 align="center">about me</h3>
 
-<h3 align="center">just a 20 year old building software you need one day</h3>
+<h3 align="center">just a 20 year old building software you need</h3>
 <br>
 <br>
 <br>
