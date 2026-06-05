@@ -57,6 +57,7 @@
 
 </p>
 
+-# contact me
 <p align="center">
   <a href="https://discord.gg/pZWDu9ZJ">
     <img src="https://img.icons8.com/?size=100&id=30888&format=png&color=000000" alt="contact me" width="40" />
