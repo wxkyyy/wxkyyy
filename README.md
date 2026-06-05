@@ -57,8 +57,7 @@
 
 </p>
 
-# contact me
 <p align="center">
-  <a href="https://discord.gg/pZWDu9ZJ"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
+  <a href="https://discord.gg/pZWDu9ZJ"><img align="center" src=" /></a>
 </p>
 
