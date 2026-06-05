@@ -3,8 +3,10 @@
 
 
 
-# about me
+<h3 align="center">about me</h3>
 - just a 20 year old building software you need one day 
+
+
 
 
 <h3 align="center">contact me</h3>
@@ -14,6 +16,7 @@
     <img src="https://img.icons8.com/?size=100&id=2mIgusGquJFz&format=png&color=000000" alt="contact me" width="40" />
   </a>
 </p>
+
 
 
 
