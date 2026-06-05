@@ -4,11 +4,12 @@
 
 
 <h3 align="center">about me</h3>
+<p align="center">
 <h3 align="center">just a 20 year old building software you need one day</h3>
-
-
-
-
+<p align="center">
+<p align="center">
+<p align="center">
+<p align="center">
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
