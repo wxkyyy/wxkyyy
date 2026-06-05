@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=goterich&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Dev&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-# about me
+#                                                 about me
 - just a 20 year old building software you need one day 
 
 
-# languages & tools
+#                                                 languages & tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -60,10 +60,11 @@
 
 
 
-## contact me
+
+##                                                 contact me
 
 <p align="center">
   <a href="https://discord.gg/pZWDu9ZJ">
-    <img src="https://img.icons8.com/?size=100&id=5RKOijedhIGw&format=png&color=000000" alt="contact me" width="40" />
+    <img src="https://img.icons8.com/?size=100&id=30995&format=png&color=000000" alt="contact me" width="40" />
   </a>
 </p>
