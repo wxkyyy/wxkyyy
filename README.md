@@ -9,17 +9,6 @@
 
 
 
-<h3 align="center">contact me</h3>
-
-<p align="center">
-  <a href="https://discord.gg/pZWDu9ZJ">
-    <img src="https://img.icons8.com/?size=100&id=2mIgusGquJFz&format=png&color=000000" alt="contact me" width="40" />
-  </a>
-</p>
-
-
-
-
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
@@ -69,4 +58,16 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />
 
+</p>
+
+
+
+
+
+<h3 align="center">contact me</h3>
+
+<p align="center">
+  <a href="https://discord.gg/pZWDu9ZJ">
+    <img src="https://img.icons8.com/?size=100&id=2mIgusGquJFz&format=png&color=000000" alt="contact me" width="40" />
+  </a>
 </p>
