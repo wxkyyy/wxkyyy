@@ -7,6 +7,8 @@
 - just a 20 year old building software you need one day 
 
 
+<h3 align="center">contact me</h3>
+
 <p align="center">
   <a href="https://discord.gg/pZWDu9ZJ">
     <img src="https://img.icons8.com/?size=100&id=2mIgusGquJFz&format=png&color=000000" alt="contact me" width="40" />
@@ -14,7 +16,6 @@
 </p>
 
 
-# languages & tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
