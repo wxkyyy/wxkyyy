@@ -58,6 +58,6 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/pZWDu9ZJ"><img align="center" src=" /></a>
+  <a href="https://discord.gg/pZWDu9ZJ"><img align="center" src=" "click here"/></a>
 </p>
 
