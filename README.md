@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=goterich&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Dev&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-## 📌 About Me
+# About Me
 - just a 20 year old building software you need one day
 
 
-## 🛠️ Languages & Tools
+# Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
