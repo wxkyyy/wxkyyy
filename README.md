@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=goterich&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Dev&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 # about me
-- just a 20 year old building software you need one day
+- just a 20 year old building software you need one day 
 
 
 # languages & tools
@@ -55,5 +55,10 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />
 
+</p>
+
+# contact me
+<p align="center">
+  <a href="https://discord.gg/pZWDu9ZJ"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
 </p>
 
