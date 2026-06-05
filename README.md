@@ -66,10 +66,10 @@
 <br>
 <br>
 
-<h3 align="center">contact me</h3>
+<h3 align="center">join my server</h3>
 
 <p align="center">
-  <a href="https://discord.gg/pZWDu9ZJ">
+  <a href="https://discord.gg/4pUeQC6kM8">
     <img src="https://img.icons8.com/?size=100&id=2mIgusGquJFz&format=png&color=000000" alt="contact me" width="40" />
   </a>
 </p>
